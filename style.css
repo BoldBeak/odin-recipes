@@ -3,7 +3,7 @@ body {
   font-size: 1.25em;
 }
 
-h1, h2, p, figure {
+h1, h2, h3, p, figure {
   text-align: center;
   margin: auto;
   margin-top: 2em;
